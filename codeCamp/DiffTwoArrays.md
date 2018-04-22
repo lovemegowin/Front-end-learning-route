@@ -1,6 +1,7 @@
 # Diff Two Arrays 
 
 ## 需求
+
 * 比较两个数组，然后返回一个新数组，该数组的元素为两个给定数组中所有独有的数组元素。换言之，返回两个数组的差异。  
 
 * 这是一些对你有帮助的资源:
@@ -60,7 +61,7 @@ diff([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 
 ```
 
-## 第二张方法
+### 第二张方法
 
 ```javascript
 function diff(arr1, arr2) {
@@ -79,7 +80,7 @@ function diff(arr1, arr2) {
   return newArr;                         //返回
 }
 ```
-## 第三种方法
+### 第三种方法
 
 ```javascript
 function diff(arr1, arr2) {
@@ -103,7 +104,7 @@ function diff(arr1, arr2) {
 }
 
 ```
-## 第四种方法
+### 第四种方法
 
 ```javascript
 function diff(arr1, arr2) { 
