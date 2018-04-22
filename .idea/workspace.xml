@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9456aabb-1e2a-461f-a76b-a98d8a415dc6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codeCamp/Diff Two Arrays .md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,9 +22,38 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="434">
-                <caret line="89" column="42" lean-forward="true" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
+              <first_editor relative-caret-position="714">
+                <caret line="75" column="23" lean-forward="false" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diff Two Arrays .md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeCamp/Diff Two Arrays .md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1148">
+                <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+                <folding>
+                  <marker date="1524376994598" expanded="true" signature="1079:1447" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1205:1280" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1240:1276" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1314:1389" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1349:1385" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1542:1961" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1619:1723" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1655:1719" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1756:1817" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="1849:1910" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="2016:2298" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="2128:2233" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="2354:2574" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="2389:2451" ph="{...}" />
+                  <marker date="1524376994598" expanded="true" signature="2483:2519" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -43,6 +73,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/codeCamp/Diff Two Arrays .md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -53,10 +84,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1118" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1148" />
     <option name="height" value="1454" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -81,6 +116,11 @@
               <item name="Front-end-learning-route" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-end-learning-route" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Front-end-learning-route" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-end-learning-route" type="462c0819:PsiDirectoryNode" />
+              <item name="codeCamp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -91,6 +131,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,25 +162,28 @@
       <workItem from="1524225473136" duration="58000" />
       <workItem from="1524225548138" duration="270000" />
       <workItem from="1524225837377" duration="4753000" />
+      <workItem from="1524230958648" duration="16000" />
+      <workItem from="1524374614843" duration="2494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6268000" />
+    <option name="totallyTimeSpent" value="8778000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2278" height="1466" extended-state="6" />
+    <frame x="-11" y="-11" width="2278" height="1466" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24977498" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5081008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -171,6 +215,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -180,20 +246,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/codeCamp/Diff Two Arrays .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="434">
-            <caret line="89" column="42" lean-forward="true" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
-            <folding />
+          <first_editor relative-caret-position="1148">
+            <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+            <folding>
+              <marker date="1524376994598" expanded="true" signature="1079:1447" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1205:1280" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1240:1276" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1314:1389" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1349:1385" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1542:1961" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1619:1723" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1655:1719" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1756:1817" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="1849:1910" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="2016:2298" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="2128:2233" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="2354:2574" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="2389:2451" ph="{...}" />
+              <marker date="1524376994598" expanded="true" signature="2483:2519" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="714">
+            <caret line="75" column="23" lean-forward="false" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
