@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9456aabb-1e2a-461f-a76b-a98d8a415dc6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/codeCamp/Diff Two Arrays .md" afterPath="$PROJECT_DIR$/codeCamp/Diff Two Arrays.md" />
+      <change beforePath="$PROJECT_DIR$/codeCamp/Diff Two Arrays.md" afterPath="$PROJECT_DIR$/codeCamp/DiffTwoArrays.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,12 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="630">
-                <caret line="75" column="46" lean-forward="false" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1218">
+                <caret line="76" column="4" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -30,43 +31,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Diff Two Arrays.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeCamp/Diff Two Arrays.md">
+      <file leaf-file-name="DiffTwoArrays.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codeCamp/DiffTwoArrays.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="980">
-                <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <first_editor relative-caret-position="4494">
+                <caret line="94" column="62" lean-forward="false" selection-start-line="94" selection-start-column="62" selection-end-line="94" selection-end-column="62" />
                 <folding>
-                  <marker date="1524376994598" expanded="true" signature="0:2578" ph="h1: ## Diff Two Arrays " />
-                  <marker date="1524376994598" expanded="true" signature="20:1019" ph="h2: #### 需求" />
-                  <marker date="1524376994598" expanded="true" signature="20:2578" ph="h2: #### 需求" />
-                  <marker date="1524376994598" expanded="true" signature="26:1016" ph="unordered list: * 比较两个数组，然后返回一个新数组，该数组...&quot;]。  " />
-                  <marker date="1524376994598" expanded="true" signature="106:214" ph="unordered list:   * Comparison Operato...cat()" />
-                  <marker date="1524376994598" expanded="true" signature="232:1016" ph="unordered list: *  diff([1, 2, 3, 5], ...&quot;]。  " />
-                  <marker date="1524376994598" expanded="true" signature="1020:1490" ph="h2: ####方案  " />
-                  <marker date="1524376994598" expanded="true" signature="1028:1490" ph="h3: ###### 第一种方法" />
-                  <marker date="1524376994598" expanded="true" signature="1039:1490" ph="code fence: ```javascript&#10;function...&#10;&#10;```" />
-                  <marker date="1524376994598" expanded="true" signature="1079:1447" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1205:1280" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1240:1276" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1314:1389" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1349:1385" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1492:1965" ph="h2: #### 第二张方法" />
-                  <marker date="1524376994598" expanded="true" signature="1502:1965" ph="code fence: ```javascript&#10;function...}&#10;```" />
-                  <marker date="1524376994598" expanded="true" signature="1542:1961" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1619:1723" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1655:1719" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1756:1817" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1849:1910" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="1966:2303" ph="h2: #### 第三种方法" />
-                  <marker date="1524376994598" expanded="true" signature="1976:2303" ph="code fence: ```javascript&#10;function...&#10;&#10;```" />
-                  <marker date="1524376994598" expanded="true" signature="2016:2298" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="2128:2233" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="2304:2578" ph="h2: #### 第四种方法" />
-                  <marker date="1524376994598" expanded="true" signature="2314:2578" ph="code fence: ```javascript&#10;function...}&#10;```" />
-                  <marker date="1524376994598" expanded="true" signature="2354:2574" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="2389:2451" ph="{...}" />
-                  <marker date="1524376994598" expanded="true" signature="2483:2519" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1080:1448" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1206:1281" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1241:1277" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1315:1390" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1350:1386" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1543:1962" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1620:1724" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1656:1720" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1757:1818" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="1850:1911" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="2017:2299" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="2129:2234" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="2355:2575" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="2390:2452" ph="{...}" />
+                  <marker date="1524378263034" expanded="true" signature="2484:2520" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -88,7 +74,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/codeCamp/Diff Two Arrays .md" />
+        <option value="$PROJECT_DIR$/codeCamp/Diff Two Arrays.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/codeCamp/DiffTwoArrays.md" />
       </list>
     </option>
   </component>
@@ -177,12 +165,12 @@
       <workItem from="1524225548138" duration="270000" />
       <workItem from="1524225837377" duration="4753000" />
       <workItem from="1524230958648" duration="16000" />
-      <workItem from="1524374614843" duration="3298000" />
+      <workItem from="1524374614843" duration="3644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9582000" />
+    <option name="totallyTimeSpent" value="9928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2278" height="1466" extended-state="6" />
@@ -260,48 +248,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeCamp/Diff Two Arrays.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="980">
-            <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-            <folding>
-              <marker date="1524376994598" expanded="true" signature="0:2578" ph="h1: ## Diff Two Arrays " />
-              <marker date="1524376994598" expanded="true" signature="20:1019" ph="h2: #### 需求" />
-              <marker date="1524376994598" expanded="true" signature="20:2578" ph="h2: #### 需求" />
-              <marker date="1524376994598" expanded="true" signature="26:1016" ph="unordered list: * 比较两个数组，然后返回一个新数组，该数组...&quot;]。  " />
-              <marker date="1524376994598" expanded="true" signature="106:214" ph="unordered list:   * Comparison Operato...cat()" />
-              <marker date="1524376994598" expanded="true" signature="232:1016" ph="unordered list: *  diff([1, 2, 3, 5], ...&quot;]。  " />
-              <marker date="1524376994598" expanded="true" signature="1020:1490" ph="h2: ####方案  " />
-              <marker date="1524376994598" expanded="true" signature="1028:1490" ph="h3: ###### 第一种方法" />
-              <marker date="1524376994598" expanded="true" signature="1039:1490" ph="code fence: ```javascript&#10;function...&#10;&#10;```" />
-              <marker date="1524376994598" expanded="true" signature="1079:1447" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1205:1280" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1240:1276" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1314:1389" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1349:1385" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1492:1965" ph="h2: #### 第二张方法" />
-              <marker date="1524376994598" expanded="true" signature="1502:1965" ph="code fence: ```javascript&#10;function...}&#10;```" />
-              <marker date="1524376994598" expanded="true" signature="1542:1961" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1619:1723" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1655:1719" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1756:1817" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1849:1910" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="1966:2303" ph="h2: #### 第三种方法" />
-              <marker date="1524376994598" expanded="true" signature="1976:2303" ph="code fence: ```javascript&#10;function...&#10;&#10;```" />
-              <marker date="1524376994598" expanded="true" signature="2016:2298" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="2128:2233" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="2304:2578" ph="h2: #### 第四种方法" />
-              <marker date="1524376994598" expanded="true" signature="2314:2578" ph="code fence: ```javascript&#10;function...}&#10;```" />
-              <marker date="1524376994598" expanded="true" signature="2354:2574" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="2389:2451" ph="{...}" />
-              <marker date="1524376994598" expanded="true" signature="2483:2519" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -310,10 +256,37 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="630">
-            <caret line="75" column="46" lean-forward="false" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1218">
+            <caret line="76" column="4" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeCamp/DiffTwoArrays.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4494">
+            <caret line="94" column="62" lean-forward="false" selection-start-line="94" selection-start-column="62" selection-end-line="94" selection-end-column="62" />
+            <folding>
+              <marker date="1524378263034" expanded="true" signature="1080:1448" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1206:1281" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1241:1277" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1315:1390" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1350:1386" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1543:1962" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1620:1724" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1656:1720" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1757:1818" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="1850:1911" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="2017:2299" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="2129:2234" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="2355:2575" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="2390:2452" ph="{...}" />
+              <marker date="1524378263034" expanded="true" signature="2484:2520" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

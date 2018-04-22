@@ -29,7 +29,7 @@
 
   *  [1, "calf", 3, "piglet"], [7, "filly"] 应该返回 [1, "calf", 3, "piglet", 7, "filly"]。  
   
-##方案  
+## 方案  
 
 ### 第一种方法
 
@@ -92,7 +92,7 @@ function diff(arr1, arr2) {
 
       //找出arr3中不存在于arr1和arr2中的元素
 
-      return arr1.indexOf(value)==-1||arr2.indexOf(value)==-1；
+      return arr1.indexOf(value)==-1||arr2.indexOf(value)==-1;
 
    }
 

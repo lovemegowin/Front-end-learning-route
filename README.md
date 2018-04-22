@@ -73,7 +73,7 @@
     4.以上三个框架对比 个人觉得vue官网: [对比其他框架](https://cn.vuejs.org/v2/guide/comparison.html) 给出框架对比是最详尽的
     
     ## codeCamp 刷题笔记
-    [Diff Two Arrays](codeCamp/Diff Two Arrays.md)
+    [Diff Two Arrays](codeCamp/DiffTwoArrays.md)
     
 # 第三阶段
 * 构建工具  
