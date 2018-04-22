@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9456aabb-1e2a-461f-a76b-a98d8a415dc6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/codeCamp/SumAllNumbersInARange.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codeCamp/RomanNumeralConverter.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/codeCamp/DiffTwoArrays.md" afterPath="$PROJECT_DIR$/codeCamp/DiffTwoArrays.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,10 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumAllNumbersInARange.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumAllNumbersInARange.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codeCamp/SumAllNumbersInARange.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="977">
+            <state relative-caret-position="3780">
               <caret line="90" column="3" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
               <folding>
                 <marker date="1524379135477" expanded="true" signature="385:619" ph="{...}" />
@@ -53,11 +51,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiffTwoArrays.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeCamp/DiffTwoArrays.md">
+      <file leaf-file-name="RomanNumeralConverter.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeCamp/RomanNumeralConverter.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="938">
+              <first_editor relative-caret-position="896">
+                <caret line="64" column="2" lean-forward="false" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+                <folding>
+                  <marker date="1524381031967" expanded="true" signature="1043:1538" ph="{...}" />
+                  <marker date="1524381031967" expanded="true" signature="1257:1513" ph="{...}" />
+                  <marker date="1524381031967" expanded="true" signature="1317:1505" ph="{...}" />
+                  <marker date="1524381031967" expanded="true" signature="1355:1447" ph="{...}" />
+                  <marker date="1524381031967" expanded="true" signature="1453:1493" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiffTwoArrays.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codeCamp/DiffTwoArrays.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="1022">
                 <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
                 <folding>
                   <marker date="1524378792503" expanded="true" signature="1081:1449" ph="{...}" />
@@ -100,6 +117,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/codeCamp/DiffTwoArrays.md" />
         <option value="$PROJECT_DIR$/codeCamp/SumAllNumbersInARange.md" />
+        <option value="$PROJECT_DIR$/codeCamp/RomanNumeralConverter.md" />
       </list>
     </option>
   </component>
@@ -188,16 +206,15 @@
       <workItem from="1524225548138" duration="270000" />
       <workItem from="1524225837377" duration="4753000" />
       <workItem from="1524230958648" duration="16000" />
-      <workItem from="1524374614843" duration="4515000" />
+      <workItem from="1524374614843" duration="6082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10799000" />
+    <option name="totallyTimeSpent" value="12366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2278" height="1466" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22367236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -271,27 +288,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="581">
-            <caret line="75" column="71" lean-forward="false" selection-start-line="75" selection-start-column="71" selection-end-line="75" selection-end-column="71" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codeCamp/DiffTwoArrays.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="938">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="1022">
             <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
             <folding>
               <marker date="1524378792503" expanded="true" signature="1081:1449" ph="{...}" />
@@ -315,9 +315,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codeCamp/RomanNumeralConverter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="896">
+            <caret line="64" column="2" lean-forward="false" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+            <folding>
+              <marker date="1524381031967" expanded="true" signature="1043:1538" ph="{...}" />
+              <marker date="1524381031967" expanded="true" signature="1257:1513" ph="{...}" />
+              <marker date="1524381031967" expanded="true" signature="1317:1505" ph="{...}" />
+              <marker date="1524381031967" expanded="true" signature="1355:1447" ph="{...}" />
+              <marker date="1524381031967" expanded="true" signature="1453:1493" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codeCamp/SumAllNumbersInARange.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="977">
+        <state relative-caret-position="3780">
           <caret line="90" column="3" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
           <folding>
             <marker date="1524379135477" expanded="true" signature="385:619" ph="{...}" />
@@ -331,6 +348,23 @@
             <marker date="1524379135477" expanded="true" signature="1243:1296" ph="{...}" />
             <marker date="1524379135477" expanded="true" signature="1417:1482" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="581">
+            <caret line="75" column="71" lean-forward="false" selection-start-line="75" selection-start-column="71" selection-end-line="75" selection-end-column="71" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
